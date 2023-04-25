@@ -12,4 +12,3 @@ namespace RazorPagesPizza.Pages
         }
     }
 }
-<
