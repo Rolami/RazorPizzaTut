@@ -43,6 +43,3 @@ public static class PizzaService
     }
 }
 
-// Add form markup to the Pizza Razor page I stopped here 
-
-// https://learn.microsoft.com/en-us/training/modules/create-razor-pages-aspnet-core/5-exercise-create-new-razor-page-and-form

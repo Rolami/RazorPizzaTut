@@ -7,6 +7,8 @@ namespace RazorPagesPizza.Pages
     {
         public void OnGet()
         {
+
+
         }
     }
 }
